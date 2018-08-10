@@ -1,0 +1,13 @@
+
+www.zinckpanel.tk/API/vhost_domain.phpdomain_name=example.com&www_path=%2Fvar%2Fwww%2Fhtml%2Fexample_com&Curl error: Connection timed out after 10719 milliseconds
+**************************** END Here **********************************
+http://198.12.68.23:786/API/vhost_domain.phpdomain_name=example.com&www_path=%2Fvar%2Fwww%2Fhtml%2Fexample_com&serialkey=123456789&Curl error: Connection timed out after 10000 milliseconds
+**************************** END Here **********************************
+http://zincksoft.com/license/zncp/mainpromo.php?key=123456789Curl error: Could not resolve host: zincksoft.com
+**************************** END Here **********************************
+http://zincksoft.com/license/zncp/mainpromo.php?key=123456789Curl error: Could not resolve host: zincksoft.com
+**************************** END Here **********************************
+http://198.12.68.23:786/API/vhost_domain.phpsubname=test&domain_name=example.com&www_path=%2Fvar%2Fwww%2Fhtml%2Ftest_example_com&serialkey=123456789&Curl error: Connection timed out after 10016 milliseconds
+**************************** END Here **********************************
+http://zincksoft.com/license/zncp/mainpromo.php?key=123456789Curl error: Could not resolve host: zincksoft.com
+**************************** END Here **********************************
